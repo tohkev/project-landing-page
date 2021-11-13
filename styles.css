@@ -94,6 +94,13 @@ h1 {
   border: none;
   color: #e5e7eb;
   border-radius: 1rem;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.intro .left button:hover {
+  background-color: white;
+  color: #3882f6;
 }
 
 /* ********************************SECTION 2***************************************** */
